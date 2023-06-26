@@ -1,3 +1,4 @@
 # Ignoring all data folders
 **/Data/
 *.csv
+*.ipynb_checkpoints
